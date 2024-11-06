@@ -1,0 +1,5 @@
+Minispiele:
+---> AB23_WeitereAufgaben (Aufgabe3)		Finde die Zahl
+---> AB26_Kniffel (Kniffel)					Kniffel
+---> AB40_GUI_Mining (Main)					PointClicker
+---> AB42_Strings (Aufgabe)					Hangman
